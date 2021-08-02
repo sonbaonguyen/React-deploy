@@ -1,0 +1,30 @@
+
+
+.fs1 {
+    width:1200px; height:780px; margin:0 auto;margin-bottom: 0px;
+}
+
+.fs10 {
+    margin-top: -60px; z-index: 99;
+}
+/* ------------- Start ------------- */
+.fs11 {
+    display: flex; justify-content: center; align-items: center;
+}
+
+.fs12 {
+    color: white; font-size: 1.3rem;
+}
+/* ------------- End ------------- */
+
+.fs19 {
+    visibility: visible; animation-duration: 300ms; animation-name: fadeIn;
+}
+
+.fs23 {
+    width: 80px;
+}
+
+.fs26 {
+    padding-bottom: 30px;
+}
